@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Cards from './components/Cards';
 import Profile from './components/Profile';
+import styles from './components/components.css';
 
 class App extends Component {
   constructor() {
